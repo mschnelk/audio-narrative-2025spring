@@ -1,6 +1,6 @@
 # Sources and attributions for audio in this folder
 
-* <div class="attribution-block">Harvard Sentence recordings (<a href="https://www.voiptroubleshooter.com/open_speech/american/OSR_us_000_0016_8k.wav">female voice</a>; <a href="https://www.voiptroubleshooter.com/open_speech/american/OSR_us_000_0030_8k.wav">male voice</a>) are from the <a href="https://www.voiptroubleshooter.com/open_speech/">Open Speech Repository</a> and used in accordance with the <a href="https://www.voiptroubleshooter.com/open_speech/about.html">conditions of use</a>. Text of the Harvard Sentences can be found at <a href="https://www.cs.columbia.edu/~hgs/audio/harvard.html">https://www.cs.columbia.edu/~hgs/audio/harvard.html</a>.</div>
+* <div class="attribution-block">Harvard Sentence recordings (<a href="https://www.voiptroubleshooter.com/open_speech/american/OSR_us_000_0016_8k.wav">female voice 2</a>; <a href = "https://www.voiptroubleshooter.com/open_speech/american/OSR_us_000_0017_8k.wav">female voice 3</a>; <a href = "https://www.voiptroubleshooter.com/open_speech/american/OSR_us_000_0018_8k.wav">female voice 4</a>; <a href="https://www.voiptroubleshooter.com/open_speech/american/OSR_us_000_0030_8k.wav">male voice</a>) are from the <a href="https://www.voiptroubleshooter.com/open_speech/">Open Speech Repository</a> and used in accordance with the <a href="https://www.voiptroubleshooter.com/open_speech/about.html">conditions of use</a>. Text of the Harvard Sentences can be found at <a href="https://www.cs.columbia.edu/~hgs/audio/harvard.html">https://www.cs.columbia.edu/~hgs/audio/harvard.html</a>.</div>
 
 * <div class="attribution-block"><a href="http://dig.ccmixter.org/files/JeffSpeed68/60519">The Mellotron</a> by Stefan Kartenberg (c) copyright 2019 Licensed under a Creative Commons <a href="http://creativecommons.org/licenses/by-nc/3.0/">Attribution Noncommercial  (3.0)</a> license. Ft: Javolenus</div>
 
@@ -11,3 +11,6 @@
 * <div class="attribution-block"><a href="http://dig.ccmixter.org/files/airtone/60674">reNovation</a> by airtone (c) copyright 2019 Licensed under a Creative Commons <a href="http://creativecommons.org/licenses/by/3.0/">Attribution (3.0)</a> license. </div>
 
 * <div class="attribution-block"><a href="http://dig.ccmixter.org/files/septahelix/60779">Babylonian Time Cube</a> by septahelix (c) copyright 2019 Licensed under a Creative Commons <a href="http://creativecommons.org/licenses/by-nc/3.0/">Attribution Noncommercial  (3.0)</a> license. Ft: speck, 7OOP3D, Apoxode</div>
+
+* <div class="attribution-block"><a href = "https://freesound.org/people/tim.kahn/sounds/197714/?">Atlantic Ocean Waves</a> by tim.kahm (c) copyright 2013 Licensed under a Creative Commons <a href = "https://creativecommons.org/licenses/by/4.0/deed.en"> Attribution  (4.0)</a> license. </div>
+
