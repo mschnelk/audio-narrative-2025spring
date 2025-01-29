@@ -2,4 +2,4 @@
 .DS_Store
 sources/**
 *.aup3-wal
-*.aup-shm
+*.aup3-shm
