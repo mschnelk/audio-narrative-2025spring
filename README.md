@@ -3,7 +3,7 @@
 
 For my narrative, I want to focus on life in the outdoors, specifically at a campsite. The audience will be brought the serene and free feeling of being in a place with no pressures or deadlines. The story will follow the bliss of waking up in nature, and the calmness of a slow morning in the woods. There is no dialogue, as the scene follows a solo camper enjoying their morning. 
 
-I am creating this project using Audacity, importing audios from <a href= "https://freesound.org/"> freesound</a> as well as recording some myself. The full list of credits can be found <a href = "https://github.com/mschnelk/audio-narrative-2025spring/blob/main/CREDITS.md"> here</a>.
+I am creating this project using Audacity, importing audios from <a href= "https://freesound.org/"> freesound</a> as well as recording some myself. The full list of credits can be found <a href = "https://github.com/mschnelk/audio-narrative-2025spring/blob/main/CREDITS.md"> here</a>, and the most up-to-date Audacity file can be found <a href = "https://github.com/mschnelk/audio-narrative-2025spring/blob/main/beneath_the_pines.aup3">here</a>.
 
 ### Project Updates
 
