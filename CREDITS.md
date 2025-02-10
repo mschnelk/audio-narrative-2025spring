@@ -42,6 +42,14 @@
 
 * <div class="attribution-block"><a href="https://freesound.org/people/Sheyvan/sounds/474052/">Chair: Sitting Down/Getting Up</a> by Sheyvan <a href = "https://creativecommons.org/public-domain/cc0/">(CC0 1.0)</a> - Public Domain</div>
 
+* <div class="attribution-block"><a href="https://freesound.org/people/AdrianoAnjos/sounds/449204/">putting glass cup down on granite</a> by AdrianoAnjos <a href = "https://creativecommons.org/public-domain/cc0/">(CC0 1.0)</a> - Public Domain</div>
+
+* <div class="attribution-block"><a href="https://freesound.org/people/haniebal/sounds/421737/">mus_AcousticCalm</a> by haniebal <a href = "https://creativecommons.org/public-domain/cc0/">(CC0 1.0)</a> - Public Domain</div>
+
+* <div class="attribution-block"><a href="https://freesound.org/people/davidkyoku/sounds/156605/">Opening guitar case and taking the guitar</a> by davidkyoku <a href = "https://creativecommons.org/public-domain/cc0/">(CC0 1.0)</a> - Public Domain</div>
+
+* <div class="attribution-block"><a href="https://freesound.org/people/morganveilleux/sounds/389992/">female sigh - medium distance</a> by morganveilleux <a href = "https://creativecommons.org/public-domain/cc0/">(CC0 1.0)</a> - Public Domain</div>
+
 * <div class="attribution-block">Opening Tea Bag by Mia Schnelker </div>
 
 * <div class="attribution-block">Placing Tea Bag by Mia Schnelker </div>
