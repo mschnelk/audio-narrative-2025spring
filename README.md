@@ -7,6 +7,16 @@ I am creating this project using Audacity, importing audios from <a href= "https
 
 ### Project Updates
 
+*Feb 10, 2025*
+
+Yesterday, I added a few final changes to my narrative. I made some minor changes with timing and audio that were suggested from my peers, and I decided to add a part at the end where the character brings out an instrument by the guitar and starts playing a song. I had a few issues with finding a good audio for this, as most songs avaialble were remixes or had multiple instruments. However, I was able to find a short acoustic melody to add at the end. I think this adds a bit of humanity to the character, but there's still some more stuff I'd like to change in the future. For one, I think adding some more dialogue or sounds from the character could add more emotion. I would like to add some parts where the characters hums or talks to themself. Also, I think it'd be better to recruit someone to sing and play the guitar for the audio, instead of just an instrumental song. 
+
+I'm still very happy with how it turned out, and like the last bits I added. My personal favorite was splicing the guitar melody into different notes to mimic someone messing with their instrument when they first pull it out. I know when I play piano, I rarely just go right into the song, but instead play a few random notes or chords before, so I think this addition makes it more human as well.
+
+Since I didn't change much, here is just the screenshot of the few parts I added to the end.
+![Screenshot 2025-02-09 193432](https://github.com/user-attachments/assets/1894e1c0-be37-4194-aac4-e6a9c2e1a4e3)
+
+
 *Feb 5, 2025*
 
 This is not a progress update, but simply my current thoughts on the project. I got some useful feedback from my peers that I plan on implementing. There were a few mentions of minor changes, such as cleaning up gaps and adding in more fading, but the biggest suggestion was to add more emotion, another scene, or a reason for the camping. I thought this was a great idea, because I think cutting the narrative down from two people camping to one removed a large portion of the human or emotional element. Some ideas I thought of are: 
